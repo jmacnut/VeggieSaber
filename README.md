@@ -1,2 +1,2 @@
 # Veggie Saber
-XR Game for Oculus Quest
+A XR Game for Oculus Quest
