@@ -50,7 +50,7 @@ public class GrabItem : MonoBehaviour
          // 2.
          Collider[] overlaps = Physics.OverlapSphere(transform.position, 0.2f);
 
-         foreach ( Collider c in overlaps)
+         foreach (Collider c in overlaps)
          {
             GameObject other = c.gameObject;
 
